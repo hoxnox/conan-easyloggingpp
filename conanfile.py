@@ -1,5 +1,5 @@
 from nxtools import NxConanFile
-from conans import CMake, tools
+from conans import tools
 
 
 class EasyloggingppConan(NxConanFile):
